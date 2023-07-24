@@ -1,4 +1,4 @@
-name: environment
+name: jupyterlab_practice
 channels:
   - conda-forge
   - defaults
