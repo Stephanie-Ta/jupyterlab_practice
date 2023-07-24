@@ -2,4 +2,5 @@ name: environment
 channels:
   - conda-forge
   - defaults
+  - jupyterlab
 prefix: C:\Users\Stephanie\miniconda3\envs\environment
